@@ -10,7 +10,7 @@ Create little snippets of markup and save them to the "patterns folder." The pat
 
 ## Why a Jekyll fork?
 
-Why not? I couldn't have built it in PHP myself (nor could I have built it myself at all), but I'm working in Jekyll projects and wanted to easily port it without anything but Jekyll dependencies.
+Why not? I couldn't have built it in PHP myself, but I'm working on Jekyll projects and wanted to easily use Jeremy's tool without anything but Jekyll dependencies. It can be run locally or [on a live server](http://patternprimer.oliverpattison.org/) with great ease.
 
 ## How to use it
 
@@ -24,3 +24,13 @@ Why not? I couldn't have built it in PHP myself (nor could I have built it mysel
 - [PHP (original version)](https://github.com/adactio/Pattern-Primer)
 - [Node.js](https://github.com/beardtwizzle/pattern-primer-on-node)
 - [Ruby (Sinatra)](https://github.com/micdijkstra/Pattern-Primer-Ruby)
+
+## This is what it looks like
+
+<http://patternprimer.oliverpattison.org/>
+
+Note: my version uses the standard styles written by adactio.
+
+## Credits
+
+The **original** [Pattern Primer is by adactio](https://github.com/adactio/Pattern-Primer) and should be used if you prefer PHP or aren't already using Jekyll. Many thanks to Jeremy for this great tool!
