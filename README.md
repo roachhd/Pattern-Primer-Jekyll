@@ -1,6 +1,6 @@
 # Jekyll version of Pattern-Primer by adactio
 
-Forked from the [original Patter-Primer for PHP by adactio (Jeremy Keith)](https://github.com/adactio/Pattern-Primer)
+Forked from the [original Pattern-Primer for PHP by adactio (Jeremy Keith)](https://github.com/adactio/Pattern-Primer)
 
 Inspired by [Ruby (Sinatra) version](https://github.com/micdijkstra/Pattern-Primer-Ruby)
 
