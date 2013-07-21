@@ -1,0 +1,5 @@
+name: Jekyll Version of Pattern Primer by adactio
+markdown: redcarpet
+pygments: false
+
+permalink: /:title/
