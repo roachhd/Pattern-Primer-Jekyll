@@ -10,7 +10,7 @@ Create little snippets of markup and save them to the "patterns folder." The pat
 
 ## Why a Jekyll fork?
 
-Why not? I couldn't have built it in PHP myself, but I'm working on Jekyll projects and wanted to easily use Jeremy's tool without anything but Jekyll dependencies. It can be run locally or [on a live server](http://patternprimer.oliverpattison.org/) with great ease.
+Why not? I could not have built it in PHP myself, but I am working on Jekyll projects and wanted to easily use Jeremy's tool without anything but Jekyll dependencies. It can be run locally or [on a live server](http://patternprimer.oliverpattison.org/) with great ease.
 
 ## How to use it
 
