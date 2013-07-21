@@ -10,7 +10,7 @@ Create little snippets of markup and save them to the "patterns folder" (called 
 
 ## Why a Jekyll fork?
 
-Why not? I could not have built it in PHP myself, but I am working on Jekyll projects and wanted to easily use Jeremy's tool without anything but Jekyll dependencies. It can be run locally or [on a live server](http://patternprimer.oliverpattison.org/) with great ease. If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
+Why not? I could not have built it in PHP myself, but I am working on Jekyll projects and wanted to easily use Jeremy's tool without anything but Jekyll dependencies. It can be [built locally with a Jekyll/Ruby environment](http://jekyllrb.com/docs/usage/) or uploaded as a static directory on a remote server ([an example](http://patternprimer.oliverpattison.org/). If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
 
 ## How to use it
 
