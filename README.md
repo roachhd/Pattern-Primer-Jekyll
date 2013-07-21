@@ -6,11 +6,11 @@ Inspired by [Ruby (Sinatra) version](https://github.com/micdijkstra/Pattern-Prim
 
 ## Pattern Primer
 
-Create little snippets of markup and save them to the "patterns folder" (called _posts in Jekyll!). The pattern primer will generate a list of all the patterns in that folder. You will see the pattern rendered as HTML. You will also get the source displayed in a textarea.
+Create little snippets of markup and save them to the "patterns folder" (called _posts in Jekyll). The pattern primer will generate a list of all the patterns in that folder. You will see the pattern rendered as HTML. You will also get the source displayed in a textarea.
 
 ## Why a Jekyll fork?
 
-Why not? I could not have built it in PHP myself and I wanted to implement the same thing for my Jekyll projects with only Jekyll dependencies. It can be [built locally with a Jekyll/Ruby environment](http://jekyllrb.com/docs/usage/) or uploaded as a static directory on a remote server ([an example](http://patternprimer.oliverpattison.org/). If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
+Why not? I could not have built it in PHP myself and I wanted to implement the same thing for my Jekyll projects with only Jekyll dependencies. It can be [built locally with a Jekyll/Ruby environment](http://jekyllrb.com/docs/usage/) or uploaded as a static directory on a remote server – [here is an example of that](http://patternprimer.oliverpattison.org/). If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
 
 ## How to use it
 
