@@ -6,7 +6,7 @@ Inspired by [Ruby (Sinatra) version](https://github.com/micdijkstra/Pattern-Prim
 
 ## Pattern Primer
 
-Create little snippets of markup and save them to the "patterns folder." The pattern primer will generate a list of all the patterns in that folder. You will see the pattern rendered as HTML. You will also get the source displayed in a textarea.
+Create little snippets of markup and save them to the "patterns folder" (called _posts in Jekyll!). The pattern primer will generate a list of all the patterns in that folder. You will see the pattern rendered as HTML. You will also get the source displayed in a textarea.
 
 ## Why a Jekyll fork?
 
@@ -18,6 +18,16 @@ Why not? I could not have built it in PHP myself, but I am working on Jekyll pro
 2. Clone this repo.
 3. Copy your CSS file to css/global.css (replacing adactio's stock CSS) *or* copy your own CSS to the css directory and direct a link in the HTML to that file.
 4. Run the command `jekyll serve` and open <localhost:4000> in your browser.
+
+**One quirk of using this in Jekyll** (or at least the quick way I created it) is that the patterns are stored in the "_posts" folder. Every post must have identical front matter that looks like this:
+
+```
+---
+layout: pattern
+---
+```
+
+... and each file must be named `yyyy-mm-dd-title.html`. The date tag is arbitrary, but this will determine where it appears in order on the index.
 
 ## Other versions
 
