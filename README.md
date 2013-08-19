@@ -12,7 +12,7 @@ Create little snippets of markup and save them to the "patterns folder" (called 
 
 ## Why a Jekyll fork?
 
-Why not? I wanted to implement the a version of Pattern-Primer for my Jekyll projects with only Jekyll dependencies (and no PHP dependencies). It can be [built locally with a Jekyll/Ruby environment](http://jekyllrb.com/docs/usage/) or uploaded as a static directory on a remote server – [here is an example of that](http://patternprimer.oliverpattison.org/). If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
+Why not? I wanted to implement the a version of Pattern-Primer for my Jekyll projects with only Jekyll dependencies (and no PHP dependencies). It can be [built locally with a Jekyll/Ruby environment](http://jekyllrb.com/docs/usage/) or uploaded as a static directory on a remote server – [here is an example of that](http://patternprimer.olivermak.es/). If anything, this tiny effort proves that you can build things other than hacker blogs with Jekyll.
 
 ## How to use it
 
@@ -40,7 +40,7 @@ layout: pattern
 
 ## This is what it looks like
 
-<http://patternprimer.oliverpattison.org/>
+<http://patternprimer.olivermak.es/>
 
 Note: my version uses the standard styles written by adactio.
 

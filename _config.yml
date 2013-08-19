@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: false
 
 permalink: patterns/:title.html
+exclude: ['s3_website.yml']
