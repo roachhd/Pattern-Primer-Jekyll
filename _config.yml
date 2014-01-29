@@ -1,6 +1,9 @@
 name: Jekyll Version of Pattern Primer by adactio
 markdown: redcarpet
 pygments: false
-
+#edit baseurl to:
+# '/': for root level domains
+# '/projectname': for subdomains ie: user.github.io/projectname
+baseurl: '/Pattern-Primer-Jekyll'
 permalink: patterns/:title.html
 exclude: ['s3_website.yml']
