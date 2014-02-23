@@ -21,8 +21,9 @@ Why not? I wanted to implement the a version of Pattern-Primer for my Jekyll pro
 1. If you haven't already, [install Jekyll](http://jekyllrb.com/).
 2. Clone this repo.
 3. Copy your CSS file to css/global.css (replacing adactio's stock CSS) *or* copy your own CSS to the css directory and direct a link in the HTML to that file.
-4. Create your own HTML snippets and add them to the `_posts` folder.
-5. Run the command `jekyll serve` and open <localhost:4000> in your browser.
+4. **IMPORTANT:** in the `_config.yml` file, change `baseurl: '/Pattern-Primer-Jekyll'` to `baseurl: ''`
+5. Create your own HTML snippets and add them to the `_posts` folder.
+6. Run the command `jekyll serve` and open <localhost:4000> in your browser.
 
 ### Configuration: **GitHub _User_ Page (user.github.io)** hosted with GitHub Pages
 
