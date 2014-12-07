@@ -4,6 +4,6 @@ pygments: false
 # change baseurl to:
 # '': for root level domains ie: mycustomdomain.com
 # '/projectname': for subdomains ie: user.github.io/projectname
-baseurl: 'roachhd.github.io/Pattern-Primer-Jekyll'
+baseurl: '/Pattern-Primer-Jekyll'
 permalink: patterns/:title.html
 exclude: ['s3_website.yml']
